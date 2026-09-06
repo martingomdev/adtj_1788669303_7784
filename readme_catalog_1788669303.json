@@ -10,7 +10,10 @@
             "- Organized logging of found URLs, raw content, and extracted credentials."
         ],
         "Price": "Unknown",
-        "Image": "images.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images.png"
+        ]
     },
     {
         "Program Name": "Advanced Web Exposure & Credential Scanner Part 2",
@@ -22,7 +25,10 @@
             "- Structured Results: Organizes findings into categorized text files and raw content dumps."
         ],
         "Price": "Unknown",
-        "Image": "images_1.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_1.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_1.png"
+        ]
     },
     {
         "Program Name": "Cypher API Toolkit - AWS IPS Range Grabber",
@@ -38,7 +44,10 @@
             "- **Colorful Interface**: Enhanced terminal output with colors"
         ],
         "Price": "Unknown",
-        "Image": "images_2.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_2.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_2.png"
+        ]
     },
     {
         "Program Name": "Cypher API Toolkit - Multi API Credentials Checker",
@@ -52,7 +61,10 @@
             "- Interactive command-line interface."
         ],
         "Price": "Unknown",
-        "Image": "images_3.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_3.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_3.png"
+        ]
     },
     {
         "Program Name": "Cypher API Toolkit - Multi API Credentials Extractor",
@@ -69,7 +81,10 @@
             "- Unique results are automatically saved to the Result folder."
         ],
         "Price": "Unknown",
-        "Image": "images_4.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_4.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_4.png"
+        ]
     },
     {
         "Program Name": "Cypher API Toolkit - Multi API Service (IPS Range Grabber)",
@@ -81,7 +96,10 @@
             "*   **Cross-Platform**: Optimized for Windows, macOS, Ubuntu, and Linux."
         ],
         "Price": "Unknown",
-        "Image": "images_5.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_5.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_5.png"
+        ]
     },
     {
         "Program Name": "Cypher API Toolkit - Sendgrid API Key Checker",
@@ -97,7 +115,10 @@
             "- Automatic result saving: Valid keys and detailed reports are organized in the `Result` folder."
         ],
         "Price": "Unknown",
-        "Image": "images_6.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_6.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_6.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Finder PhpMyAdmin Path Login",
@@ -110,7 +131,10 @@
             "- Automatic Logging: Successful finds are saved to the Result folder."
         ],
         "Price": "Unknown",
-        "Image": "images_7.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_7.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_7.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Laravel Pro Scanner .env",
@@ -124,7 +148,10 @@
             "- **Clean Environment**: Suppression and automatic removal of `__pycache__` directories."
         ],
         "Price": "Unknown",
-        "Image": "images_8.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_8.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_8.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Laravel, Symfony & PHPInfo Mass Scanner",
@@ -137,7 +164,10 @@
             "- **Automated Logging:** Results are neatly organized by service and vulnerability type in the `Results` directory."
         ],
         "Price": "Unknown",
-        "Image": "images_9.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_9.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_9.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Mass .git Config Finder & Validator",
@@ -150,7 +180,10 @@
             "- Cross-platform support (Windows, macOS, Ubuntu, Linux)."
         ],
         "Price": "Unknown",
-        "Image": "images_10.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_10.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_10.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Mass Database Credentials Finder & Validator (.env and Debug)",
@@ -172,7 +205,10 @@
             "- Detailed logging of results and connection attempts."
         ],
         "Price": "Unknown",
-        "Image": "images_11.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_11.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_11.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Mass PhpMyAdmin & Environment File Scanner (.env and Debug)",
@@ -189,7 +225,10 @@
             "- Detailed logging of results and credentials."
         ],
         "Price": "Unknown",
-        "Image": "images_12.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_12.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_12.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Mass VSCode SFTP Config Scanner & Validator",
@@ -203,7 +242,10 @@
             "- Cross-platform support (Windows, macOS, Linux)."
         ],
         "Price": "Unknown",
-        "Image": "images_13.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_13.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_13.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Mass WordPress Config Scanner & Validator",
@@ -219,7 +261,10 @@
             "*   **Reliable Persistence**: Findings are flushed to disk immediately, preventing data loss, and directories are only created when actual results are found."
         ],
         "Price": "Unknown",
-        "Image": "images_14.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_14.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_14.png"
+        ]
     },
     {
         "Program Name": "Cypher Auto Scanner - Ultimate Tool Finder (Shells, Mailer, Config)",
@@ -234,7 +279,10 @@
             "- Professional CLI interface with OS detection."
         ],
         "Price": "Unknown",
-        "Image": "images_15.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_15.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_15.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Bulk Checking For Vulnerability SQL Injection",
@@ -249,7 +297,10 @@
             "- **Clean Output**: Organized results saved automatically to a `Result/` directory."
         ],
         "Price": "Unknown",
-        "Image": "images_16.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_16.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_16.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Dork Generator",
@@ -265,7 +316,10 @@
             "- Structured output saved automatically to Result/dork.txt."
         ],
         "Price": "Unknown",
-        "Image": "images_17.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_17.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_17.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Dork Scanner",
@@ -280,7 +334,10 @@
             "-   **Smart Extraction:** Decodes redirects and tracking links to get the clean, direct URL."
         ],
         "Price": "Unknown",
-        "Image": "images_18.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_18.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_18.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Dork Scanner SQLi",
@@ -296,7 +353,10 @@
             "- Built-in result cleaning and management utilities."
         ],
         "Price": "Unknown",
-        "Image": "images_19.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_19.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_19.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - SQLi Dork Generator",
@@ -313,7 +373,10 @@
             "-   **Auto-Sample Creation**: Automatically creates `sample_list/keywords.txt` and `sample_list/site.txt` for easy start."
         ],
         "Price": "Unknown",
-        "Image": "images_20.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_20.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_20.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Wayback Hunter Pro",
@@ -328,7 +391,10 @@
             "- **OS Autodetect & Clean CLI**: Interactive colorful interface that runs cross-platform on Windows, macOS and Linux."
         ],
         "Price": "Unknown",
-        "Image": "images_21.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_21.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_21.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Webapplyzer CLI",
@@ -349,7 +415,10 @@
             "- **Professional CLI UI**: Features a dynamic banner, real-time live results printer, and cumulative scan statistics."
         ],
         "Price": "Unknown",
-        "Image": "images_22.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_22.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_22.png"
+        ]
     },
     {
         "Program Name": "Cypher Recon - Xmlrpc and Wordpress Bruteforce Attack",
@@ -379,7 +448,10 @@
             "- robust error handling and network timeout management."
         ],
         "Price": "Unknown",
-        "Image": "images_23.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_23.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_23.png"
+        ]
     },
     {
         "Program Name": "Cypher Sender - Advanced Email Marketing Sender",
@@ -401,7 +473,10 @@
             "- **System Information Banner**: Displays the tool name, detected OS version, and Python version at startup."
         ],
         "Price": "Unknown",
-        "Image": "images_24.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_24.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_24.png"
+        ]
     },
     {
         "Program Name": "Cypher Sender - AWS Sender (Professional AWS SNS SMS Sending Tool)",
@@ -422,7 +497,10 @@
             "- **Message Management**: Auto-creates and loads messages from `Message/Message.txt` with sample templates"
         ],
         "Price": "Unknown",
-        "Image": "images_25.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_25.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_25.png"
+        ]
     },
     {
         "Program Name": "Cypher Sender - Nexmo",
@@ -435,7 +513,10 @@
             "- OS Optimization: Windows, macOS, and Linux support."
         ],
         "Price": "Unknown",
-        "Image": "images_26.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_26.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_26.png"
+        ]
     },
     {
         "Program Name": "Cypher Sender - Twilio",
@@ -450,7 +531,10 @@
             "- Persistent Logging: Detailed results saved without clearing previous session history."
         ],
         "Price": "Unknown",
-        "Image": "images_27.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_27.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_27.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Advanced Email, Domain, and IP Manager",
@@ -467,7 +551,10 @@
             "- **Sort**: Alphabetically sort lines in a file."
         ],
         "Price": "Unknown",
-        "Image": "images_28.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_28.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_28.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Advanced Reverse IP Lookup Tool",
@@ -485,7 +572,10 @@
             "- **Process Locking**: Prevents file conflicts when cleaning while other tabs are active."
         ],
         "Price": "Unknown",
-        "Image": "images_29.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_29.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_29.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - AWS Tool For (Key Generator, Quota Checker and Admin IAM Creator)",
@@ -500,7 +590,10 @@
             "- Accurate startup banner displaying the tool title, current OS version, and Python version."
         ],
         "Price": "Unknown",
-        "Image": "images_30.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_30.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_30.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Brevo API Key Checker and SMTP Validator",
@@ -512,7 +605,10 @@
             "- Clean banner menu with OS/version display and screen clearing."
         ],
         "Price": "Unknown",
-        "Image": "images_31.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_31.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_31.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Bulk Email Verifier",
@@ -526,7 +622,10 @@
             "- Automated result categorization and logging."
         ],
         "Price": "Unknown",
-        "Image": "images_32.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_32.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_32.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Bulk WordPress User Enumeration Tool",
@@ -539,7 +638,10 @@
             "- Deduplication of discovered usernames."
         ],
         "Price": "Unknown",
-        "Image": "images_33.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_33.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_33.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Checker Shell Pro",
@@ -554,7 +656,10 @@
             "- **Zero-Residual Cleanup**: Active bytecode suppression and automated directory cleaning to prevent the creation of __pycache__ files."
         ],
         "Price": "Unknown",
-        "Image": "images_34.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_34.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_34.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Database Checker",
@@ -568,7 +673,10 @@
             "- **Diagnostic Banner**: Real-time display of system information and driver status."
         ],
         "Price": "Unknown",
-        "Image": "images_35.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_35.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_35.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Email & Phone Number Grabber From Website or IPs",
@@ -582,7 +690,10 @@
             "- Organized Output: Saves leads into separate, categorized text files."
         ],
         "Price": "Unknown",
-        "Image": "images_36.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_36.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_36.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Get Wordpress Database From Config",
@@ -596,7 +707,10 @@
             "- Results persistence with organized output in the `Result/` directory."
         ],
         "Price": "Unknown",
-        "Image": "images_37.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_37.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_37.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Get Wordpress Logs From Mail&Pass List",
@@ -611,7 +725,10 @@
             "- **Pycache Protection**: Suppresses and automatically cleans up binary cache files."
         ],
         "Price": "Unknown",
-        "Image": "images_38.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_38.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_38.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Grabber Domain",
@@ -629,7 +746,10 @@
             "- **Colorful Terminal Output**: Colorized banner, menus, and progress."
         ],
         "Price": "Unknown",
-        "Image": "images_39.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_39.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_39.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Manager Pro",
@@ -647,7 +767,10 @@
             "- **Multi-file Chunk Splitter**: Split massive text files into segments by line count for easy batch processing."
         ],
         "Price": "Unknown",
-        "Image": "images_40.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_40.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_40.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Manager Simple",
@@ -659,7 +782,10 @@
             "- **Cross-Platform**: Fully compatible with Windows, Linux, and macOS."
         ],
         "Price": "Unknown",
-        "Image": "images_41.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_41.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_41.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Multi-Vulnerability Scanner",
@@ -671,7 +797,10 @@
             "- **Detailed Reporting**: Saves found vulnerabilities into organized results directories for further analysis."
         ],
         "Price": "Unknown",
-        "Image": "images_42.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_42.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_42.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Shell Password Cracking",
@@ -683,7 +812,10 @@
             "- **Output Persistence**: Results are automatically categorized and saved for later review."
         ],
         "Price": "Unknown",
-        "Image": "images_43.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_43.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_43.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - SQL Vulnerability Advanced Scanner & Auto Dumper \u2014 Advanced Edition",
@@ -699,7 +831,10 @@
             "- **Invisible Extraction**: Sticky WAF state management ensures bypass persists across the entire session."
         ],
         "Price": "Unknown",
-        "Image": "images_44.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_44.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_44.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Subdomain Scanner",
@@ -713,7 +848,10 @@
             "- Clean Architecture: Bytecode cache prevention and thorough cleanup of temporary files."
         ],
         "Price": "Unknown",
-        "Image": "images_45.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_45.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_45.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Subdomain Scanner With Wordlist",
@@ -724,7 +862,10 @@
             "- Supports bulk processing of root domains from an input file"
         ],
         "Price": "Unknown",
-        "Image": "images_46.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_46.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_46.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Validator Amazon Email (Japan Only)",
@@ -739,7 +880,10 @@
             "- **Clean CLI Interface**: Colorful, readable output without ASCII art"
         ],
         "Price": "Unknown",
-        "Image": "images_47.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_47.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_47.png"
+        ]
     },
     {
         "Program Name": "Cypher Toolkit - Wordpress Config Finder",
@@ -752,7 +896,10 @@
             "- **Result Management**: Automatically organizes and appends found data to the Result directory."
         ],
         "Price": "Unknown",
-        "Image": "images_48.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_48.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_48.png"
+        ]
     },
     {
         "Program Name": "Domain, URL, and IP Extractor Tool",
@@ -766,7 +913,10 @@
             "- Merges and de-duplicates results without overwriting existing data."
         ],
         "Price": "Unknown",
-        "Image": "images_49.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_49.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_49.png"
+        ]
     },
     {
         "Program Name": "IP Range Generator Tool",
@@ -777,7 +927,10 @@
             "- Choose to load a single `.txt` file or all `.txt` files from a target directory."
         ],
         "Price": "Unknown",
-        "Image": "images_50.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_50.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_50.png"
+        ]
     },
     {
         "Program Name": "IPs Generator, Range IPs, Bulk Check Live IPs",
@@ -787,7 +940,10 @@
             "- **Bulk IPs Check**: Multithreaded validation to identify live IP addresses."
         ],
         "Price": "Unknown",
-        "Image": "images_51.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_51.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_51.png"
+        ]
     },
     {
         "Program Name": "Nullz Advanced Email Marketing Sender",
@@ -805,7 +961,10 @@
             "- Real-time Logging: Comprehensive success and failure tracking with detailed log entries."
         ],
         "Price": "Unknown",
-        "Image": "images_52.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_52.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_52.png"
+        ]
     },
     {
         "Program Name": "Phone Number Generator All Country",
@@ -817,7 +976,10 @@
             "- Interactive, user-friendly command-line interface."
         ],
         "Price": "Unknown",
-        "Image": "images_53.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_53.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_53.png"
+        ]
     },
     {
         "Program Name": "Phone Number To Carrier Gateway",
@@ -833,7 +995,10 @@
             "- **Deduplication**: Ensures unique carrier entries during processing."
         ],
         "Price": "Unknown",
-        "Image": "images_54.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_54.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_54.png"
+        ]
     },
     {
         "Program Name": "Phone Number Validation and Carrier Lookup Tool",
@@ -852,7 +1017,10 @@
             "- **Core Dependencies**: Built using professional libraries including `phonenumbers` and `colorama`, with `concurrent.futures` for threading."
         ],
         "Price": "Unknown",
-        "Image": "images_55.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_55.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_55.png"
+        ]
     },
     {
         "Program Name": "Proxy Connection Tester",
@@ -866,7 +1034,10 @@
             "- Cross-platform support with colored terminal output."
         ],
         "Price": "Unknown",
-        "Image": "images_56.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_56.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_56.png"
+        ]
     },
     {
         "Program Name": "Sentinel Toolkit | Professional Data Discovery Toolkit",
@@ -881,7 +1052,10 @@
             "- Dynamic Threading: User-definable thread counts with a high-performance default (100 threads)."
         ],
         "Price": "Unknown",
-        "Image": "images_57.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_57.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_57.png"
+        ]
     },
     {
         "Program Name": "SMTP Connection & Send Tester",
@@ -895,7 +1069,10 @@
             "- Automated Results: Automatically saves working SMTPs to Result/SMTP.txt and failed SMTPs to Result/Failed.txt."
         ],
         "Price": "Unknown",
-        "Image": "images_58.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_58.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_58.png"
+        ]
     },
     {
         "Program Name": "URL Modifier Pro",
@@ -908,7 +1085,10 @@
             "- **Interactive File Selection**: Lists every `.txt` file found in a target directory and asks for confirmation before processing."
         ],
         "Price": "Unknown",
-        "Image": "images_59.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_59.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_59.png"
+        ]
     },
     {
         "Program Name": "Vixus Scanner Pro - Advanced Credential Extractor (Laravel Env And Debug, Wordpress, Phpinfo, Yii Debug)",
@@ -921,7 +1101,10 @@
             "- **Traceability**: Every finding is linked back to the specific `TARGET_URL` and internal server `PATH`."
         ],
         "Price": "Unknown",
-        "Image": "images_60.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_60.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_60.png"
+        ]
     },
     {
         "Program Name": "Vixus Scanner Pro - Laravel .env and Debug Scanner",
@@ -934,7 +1117,10 @@
             "- **Differentiated Output**: Separate organization for `.env` and Debug Page results for better workflow."
         ],
         "Price": "Unknown",
-        "Image": "images_61.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_61.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_61.png"
+        ]
     },
     {
         "Program Name": "Vixus Toolkit",
@@ -958,7 +1144,10 @@
             "- **Split by Type (IP/Domain/URL)**: Sort data by type."
         ],
         "Price": "Unknown",
-        "Image": "images_62.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_62.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_62.png"
+        ]
     },
     {
         "Program Name": "Web & Mail Credential Checker",
@@ -976,7 +1165,10 @@
             "- **Structured Results**: Saves results in human-readable and reusable formats in the `Result` folder."
         ],
         "Price": "Unknown",
-        "Image": "images_63.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_63.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_63.png"
+        ]
     },
     {
         "Program Name": "WP Login Checker",
@@ -995,6 +1187,9 @@
             "- Configurable thread count (no upper limit) with a low default for minimal CPU and memory usage."
         ],
         "Price": "Unknown",
-        "Image": "images_64.png"
+        "Image": "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_64.png",
+        "Images": [
+            "https://raw.githubusercontent.com/martingomdev/adtj_1788669303_7784/main/images/images_64.png"
+        ]
     }
 ]
