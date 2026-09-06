@@ -1,0 +1,1000 @@
+[
+    {
+        "Program Name": "Advanced Web Exposure & Credential Scanner Part 1",
+        "Features": [
+            "- High-performance multi-threaded scanning.",
+            "- Detection of CMS and Framework configurations: Joomla, Drupal, Magento, ASP.NET.",
+            "- Identification of DevOps and Infrastructure files: Jenkins, SSH keys, Kubernetes config, FileZilla.",
+            "- Scanning for Server and Data exposures: Nginx status pages, log files, and database dumps.",
+            "- Automated credential extraction for identified files.",
+            "- Organized logging of found URLs, raw content, and extracted credentials."
+        ],
+        "Price": "Unknown",
+        "Image": "images.png"
+    },
+    {
+        "Program Name": "Advanced Web Exposure & Credential Scanner Part 2",
+        "Features": [
+            "- Multi-Threaded Performance: Efficiently scans large lists of targets using concurrent threads.",
+            "- Comprehensive Framework Coverage: Detection for WordPress, Laravel, Django, Rails, Symfony, and Next.js.",
+            "- DevOps & Cloud Exposure: Scans for Git configurations, Docker Compose files, AWS credentials, and CI/CD configurations (CircleCI, Travis CI).",
+            "- Automated Credential Extraction: Automatically parses discovered files to extract database credentials, API keys, and sensitive tokens.",
+            "- Structured Results: Organizes findings into categorized text files and raw content dumps."
+        ],
+        "Price": "Unknown",
+        "Image": "images_1.png"
+    },
+    {
+        "Program Name": "Cypher API Toolkit - AWS IPS Range Grabber",
+        "Features": [
+            "- **Fetch AWS IP Ranges**: Retrieves the latest IPv4 and IPv6 prefixes from AWS",
+            "- **Interactive Menu**: User-friendly menu system for easy navigation",
+            "- **Auto-Output**: Results automatically saved to `Result/` folder",
+            "- **Real-time Summary**: Displays total IP counts after each run",
+            "- **CIDR Expansion**: Convert CIDR ranges to individual IPs with progress bar",
+            "- **Incremental Save**: Saves all expanded IPs even if process is interrupted",
+            "- **Error Handling**: Gracefully handles interruptions, memory errors, and exceptions",
+            "- **Cross-platform**: Works on Windows, macOS, and Linux",
+            "- **Colorful Interface**: Enhanced terminal output with colors"
+        ],
+        "Price": "Unknown",
+        "Image": "images_2.png"
+    },
+    {
+        "Program Name": "Cypher API Toolkit - Multi API Credentials Checker",
+        "Features": [
+            "- Validates credentials for 12+ services.",
+            "- Multi-threaded processing for high speed.",
+            "- Smart 'Scan For All' mode to identify services for a given key/token.",
+            "- Supports single file input or batch processing from a folder.",
+            "- Automatically saves successful results to the 'Result' directory.",
+            "- De-duplicates and sorts result files automatically.",
+            "- Interactive command-line interface."
+        ],
+        "Price": "Unknown",
+        "Image": "images_3.png"
+    },
+    {
+        "Program Name": "Cypher API Toolkit - Multi API Credentials Extractor",
+        "Features": [
+            "- Cloud & Infrastructure: AWS Access Keys, SMTP Credentials.",
+            "- Databases: Extracts DB_HOST, DB_USER, DB_PASS, etc., from .env style files.",
+            "- Social & Auth: Google OAuth, Apple, Facebook, Instagram, LinkedIn.",
+            "- Payment Gateways: Stripe, PayPal, Paytm.",
+            "- Messaging & Communication: SendGrid, Twilio, Plivo, Nexmo, OneSignal, Telegram Bot.",
+            "- AI & General APIs: OpenAI, YouTube.",
+            "- Menu-driven interface with color-coded categories (white & cyan).",
+            "- Banner displays tool title, OS version, and Python version.",
+            "- Support for multi-threaded scanning for faster processing.",
+            "- Unique results are automatically saved to the Result folder."
+        ],
+        "Price": "Unknown",
+        "Image": "images_4.png"
+    },
+    {
+        "Program Name": "Cypher API Toolkit - Multi API Service (IPS Range Grabber)",
+        "Features": [
+            "*   **Multi-Cloud Support**: Fetch IP ranges from Amazon AWS, Google Cloud, Azure, DigitalOcean, and more.",
+            "*   **Smart Parsing**: Robust extraction of IPv4 CIDR blocks using advanced regex.",
+            "*   **Auto-Expansion**: Option to automatically expand CIDR blocks into individual IP addresses.",
+            "*   **Real-Time Updates**: Live progress tracking during data fetching and processing.",
+            "*   **Cross-Platform**: Optimized for Windows, macOS, Ubuntu, and Linux."
+        ],
+        "Price": "Unknown",
+        "Image": "images_5.png"
+    },
+    {
+        "Program Name": "Cypher API Toolkit - Sendgrid API Key Checker",
+        "Features": [
+            "- High-speed API key validation using multi-threading.",
+            "- Flexible key loading: Load API keys from a single `.txt` file or all `.txt` files within a directory.",
+            "- Detailed account reporting: Reputation, account type, and reseller status.",
+            "- Credit monitoring: Total, used, remaining credits, and reset frequency.",
+            "- Verified sender detection: Automatically identifies the \"From Email\".",
+            "- Email sending test: Optional Text and HTML email tests configurable via `settings.ini`.",
+            "- Proxy support: Comprehensive HTTP/S and SOCKS proxy integration with auto-retry on failure.",
+            "- Built-in proxy tester: Pre-validate your proxy list against SendGrid endpoints.",
+            "- Automatic result saving: Valid keys and detailed reports are organized in the `Result` folder."
+        ],
+        "Price": "Unknown",
+        "Image": "images_6.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Finder PhpMyAdmin Path Login",
+        "Features": [
+            "- Single Target Scanning: Quickly check a specific domain or IP.",
+            "- Mass Target Scanning: Scan multiple targets from a text file or an entire directory of files.",
+            "- Multi-threading: Configurable thread count for optimal speed.",
+            "- Smart Detection: Verifies instances by checking for specific HTML title tags.",
+            "- Protocol Versatility: Support for both HTTP and HTTPS (configurable).",
+            "- Automatic Logging: Successful finds are saved to the Result folder."
+        ],
+        "Price": "Unknown",
+        "Image": "images_7.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Laravel Pro Scanner .env",
+        "Features": [
+            "- **High-Speed Execution**: Multithreaded scanning engine using `ThreadPoolExecutor`.",
+            "- **Exhaustive Scanning**: Checks every potential path for every target target, regardless of prior results.",
+            "- **Advanced UI**: Professional, colorized CLI dashboard without restrictive ASCII or grid boxes.",
+            "- **Robust Input Handling**: Batch-loads all .txt files from a directory or a single .txt file with encoding detection.",
+            "- **Dual Format Output**: Saves full vulnerable URLs and clean domain lists separately.",
+            "- **Dependency Management**: All required modules are installed simply via `requirements.txt`.",
+            "- **Clean Environment**: Suppression and automatic removal of `__pycache__` directories."
+        ],
+        "Price": "Unknown",
+        "Image": "images_8.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Laravel, Symfony & PHPInfo Mass Scanner",
+        "Features": [
+            "- **Laravel Scanning:** Detects and extracts credentials from `.env` files and `/debug` pages.",
+            "- **Symfony Scanning:** Identifies Symfony environment configurations and APP_SECRETS.",
+            "- **PHPInfo Extraction:** Parses PHPInfo pages for sensitive environment variables.",
+            "- **Credential Extraction:** Automatically captures SMTP, AWS (S3, SES, SNS), Database (MySQL, PostgreSQL, etc.), Payment Gateways (Stripe, PayPal, etc.), and various API keys.",
+            "- **Multi-threaded Performance:** High-speed scanning using customizable thread pools.",
+            "- **Automated Logging:** Results are neatly organized by service and vulnerability type in the `Results` directory."
+        ],
+        "Price": "Unknown",
+        "Image": "images_9.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Mass .git Config Finder & Validator",
+        "Features": [
+            "- Scans for exposed `.git/config`, `.git/HEAD`, and `.gitignore` files.",
+            "- Extracts Git credentials (username/password) from remote URLs.",
+            "- **Native Python Validation**: Automatically validates credentials by making direct HTTP requests to the Git host\u2014no `git` installation required!",
+            "- Supports single target scanning and mass scanning from a file.",
+            "- Multi-threaded execution for high performance.",
+            "- Cross-platform support (Windows, macOS, Ubuntu, Linux)."
+        ],
+        "Price": "Unknown",
+        "Image": "images_10.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Mass Database Credentials Finder & Validator (.env and Debug)",
+        "Features": [
+            "- Scans for exposed .env files or Laravel debug pages.",
+            "- Extracts database credentials (host, port, username, password, database).",
+            "- Automated connection testing for:",
+            "- MySQL / MariaDB",
+            "- PostgreSQL",
+            "- SQL Server",
+            "- MongoDB",
+            "- Oracle",
+            "- Firebird",
+            "- SQLite",
+            "- Supports both single target and mass scanning from file.",
+            "- **High-Performance Streaming**: Handles millions of URLs efficiently without high memory usage.",
+            "- **Connection Pooling**: Uses persistent sessions per thread for maximum scanning speed.",
+            "- **Immediate Persistence**: Results are saved and flushed to disk as soon as they are found.",
+            "- Detailed logging of results and connection attempts."
+        ],
+        "Price": "Unknown",
+        "Image": "images_11.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Mass PhpMyAdmin & Environment File Scanner (.env and Debug)",
+        "Features": [
+            "- Scans for exposed `.env` files and Laravel debug pages.",
+            "- Automatically extracts `DB_HOST`, `DB_DATABASE`, `DB_USERNAME`, and `DB_PASSWORD`.",
+            "- Attempts automated login to PhpMyAdmin using extracted credentials.",
+            "- Supports single target scanning, mass scanning via a single file, or loading all `.txt` files from a target directory (supporting multi-gigabyte lists with streaming).",
+            "- High-performance multi-threaded execution with Connection Pooling (requests.Session) for maximum speed.",
+            "- Dynamic conditional folder creation (results and folders generated only when found).",
+            "- Immediate file flushing to disk so results are kept safe in case of abrupt exit.",
+            "- All result output is consolidated under the `Output_Result` main directory.",
+            "- Cross-platform support (Windows, macOS, Linux).",
+            "- Detailed logging of results and credentials."
+        ],
+        "Price": "Unknown",
+        "Image": "images_12.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Mass VSCode SFTP Config Scanner & Validator",
+        "Features": [
+            "- Scans for exposed VS Code `sftp.json` files in common directories.",
+            "- Extracts SFTP credentials including host, username, password, and private key paths.",
+            "- Automated SFTP login verification using extracted credentials.",
+            "- Supports single target scanning, a single `.txt` target file, or all `.txt` files from a directory.",
+            "- Multi-threaded execution for high-performance scanning.",
+            "- Structured logging of findings, successful logins, and failed attempts.",
+            "- Cross-platform support (Windows, macOS, Linux)."
+        ],
+        "Price": "Unknown",
+        "Image": "images_13.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Mass WordPress Config Scanner & Validator",
+        "Features": [
+            "*   **Exposed Config Detection**: Scans for `wp-config.php` and its common variations (backups, text files, etc.).",
+            "*   **Credential Extraction**: Automatically parses database host, name, username, and password from found files.",
+            "*   **Database Verification**: Attempts a real-time login to verify if extracted credentials are valid.",
+            "*   **Mass Scanning**: Supports scanning a single target, a single `.txt` file, or every `.txt` file in the target directory.",
+            "*   **Multi-threading**: High-performance scanning with configurable thread counts.",
+            "*   **Structured Logging**: Saves results into an organized `Output_Result` directory for easy analysis.",
+            "*   **High Performance**: Uses connection pooling via `requests.Session` per thread for maximum speed.",
+            "*   **Large File Support**: Employs streaming file I/O for processing multi-gigabyte lists of URLs without consuming excessive RAM.",
+            "*   **Reliable Persistence**: Findings are flushed to disk immediately, preventing data loss, and directories are only created when actual results are found."
+        ],
+        "Price": "Unknown",
+        "Image": "images_14.png"
+    },
+    {
+        "Program Name": "Cypher Auto Scanner - Ultimate Tool Finder (Shells, Mailer, Config)",
+        "Features": [
+            "- Multi-threaded scanning for maximum performance.",
+            "- Precise regex-based detection for Shells, Mailers, Configs, and Passwords.",
+            "- Robust False 200 OK filtering to eliminate false positives.",
+            "- Redirect protection (disables automatic redirects).",
+            "- Auto-creation of bulk .php path lists.",
+            "- Supports loading targets from a single file or an entire directory of .txt files.",
+            "- Real-time progress updates with current URL display.",
+            "- Professional CLI interface with OS detection."
+        ],
+        "Price": "Unknown",
+        "Image": "images_15.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Bulk Checking For Vulnerability SQL Injection",
+        "Features": [
+            "- **Bulk Scanning**: Efficiently scan text files containing multiple URLs.",
+            "- **Flexible Input**: Load URLs from a single `.txt` file, or browse a folder and pick one, several, or all available `.txt` files.",
+            "- **Multi-threaded**: Adjustable thread count for faster scanning.",
+            "- **Smart Payloads**: Automatically generates and tests multiple SQL injection payloads for each URL.",
+            "- **Real-time Statistics**: View live progress, vulnerable counts, errors, and timeouts.",
+            "- **System Info Banner**: Displays the tool title, OS version, and Python version on startup.",
+            "- **Continuous Mode**: Scan multiple files in a single session without restarting the script.",
+            "- **Clean Output**: Organized results saved automatically to a `Result/` directory."
+        ],
+        "Price": "Unknown",
+        "Image": "images_16.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Dork Generator",
+        "Features": [
+            "- Streaming cartesian product generation keeps memory low, even with very large wordlists.",
+            "- Real-time progress bars with tqdm integration.",
+            "- Large jobs are flagged with an estimated dork count and confirm before running.",
+            "- Interruption-safe: partial results are kept in the output file on Ctrl+C.",
+            "- Load wordlists from individual .txt files or an entire directory.",
+            "- Robust encoding support (UTF-8, Latin-1, CP1252, etc.) for input lists.",
+            "- Cross-platform support for Windows, macOS, and Linux/Ubuntu.",
+            "- Auto-generation of sample data in the sample_dork directory.",
+            "- Structured output saved automatically to Result/dork.txt."
+        ],
+        "Price": "Unknown",
+        "Image": "images_17.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Dork Scanner",
+        "Features": [
+            "-   **Multi-Threaded:** Lightning-fast scanning with configurable thread counts (capped at 500 for stability).",
+            "-   **Live Scan Display:** Real-time in-place status with dorks done, pages-checked progress bar, links/sites found, active threads, current work, and elapsed time. Updates per URL, no screen flicker.",
+            "-   **Cross-Platform:** Works on Windows, Linux, and macOS with OS-agnostic paths, `colorama` ANSI handling, and UTF-8 stdout fallback.",
+            "-   **Flexible Target Loading:** Load dorks from a single `.txt` file, or load all `.txt` files from a directory.",
+            "-   **Robust Error Handling:** Gracefully handles file encoding issues (`UTF-8` \u2192 `Latin-1` \u2192 `CP1252`), permission errors, network errors, and invalid input paths.",
+            "-   **Clean Results:** Built-in utility to remove duplicates and clean output files.",
+            "-   **Continuous Scanning:** Seamlessly scan multiple lists in a single session.",
+            "-   **Smart Extraction:** Decodes redirects and tracking links to get the clean, direct URL."
+        ],
+        "Price": "Unknown",
+        "Image": "images_18.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Dork Scanner SQLi",
+        "Features": [
+            "- Multi-threaded scanning for high-speed results.",
+            "- Flexible target loading: load a single `.txt` file or an entire directory of `.txt` files (all files are listed before scanning).",
+            "- Automated search mirror cycling to prevent IP blocking.",
+            "- Real-time dashboard with comprehensive scan statistics (no screen flickering).",
+            "- Automatic extraction and de-duplication of target URLs and domains.",
+            "- Robust handling of various dork file formats and encodings.",
+            "- Cross-platform support: works on Windows, macOS, and Linux.",
+            "- Built-in error handling for input files and network issues.",
+            "- Built-in result cleaning and management utilities."
+        ],
+        "Price": "Unknown",
+        "Image": "images_19.png"
+    },
+    {
+        "Program Name": "Cypher Recon - SQLi Dork Generator",
+        "Features": [
+            "-   **High Performance**: Generates thousands of dorks in seconds.",
+            "-   **Smart Logic**:",
+            "-   Automatically appends `?id=` to keywords without parameters.",
+            "-   Dynamically adds common vulnerable extensions (e.g., `.php`, `.asp`, `.aspx`, `.jsp`) if not present.",
+            "-   **Interactive Menu**: Clears the screen on every visit of the main menu and displays the tool title, OS version, Python version, and features.",
+            "-   **[1] Targeted Mode**: Generates dorks with `site:` operators (e.g., `inurl:index.php?id= site:.com`).",
+            "-   **[2] Non-Targeted Mode**: Generates global dorks (e.g., `inurl:index.php?id=`).",
+            "-   **Flexible List Loading**: Each list can be loaded from a **single `.txt` file** or from a **directory**, where every `.txt` file is auto-detected and selected by number.",
+            "-   **Robust Input**: Handles various file encodings and drag-and-drop paths.",
+            "-   **Auto-Sample Creation**: Automatically creates `sample_list/keywords.txt` and `sample_list/site.txt` for easy start."
+        ],
+        "Price": "Unknown",
+        "Image": "images_20.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Wayback Hunter Pro",
+        "Features": [
+            "- **High-Volume Streaming Discovery**: Processes results line-by-line in real-time, optimized for massive domains with millions of archived URLs.",
+            "- **Partial Result Recovery**: Automatically saves all discovered data even if connections drop during large scans.",
+            "- **Clean Output Format**: Result files contain only pure URLs without headers, ready for piping into other security tools.",
+            "- **Dual-Layered Saving**: Bulk scans create both individual per-target files and merged master files for the entire session.",
+            "- **GET/POST Parameter Identification**: Extracts confirmed GET query strings and identifies potential POST candidates using smart heuristics.",
+            "- **Advanced Rate Limit Bypass**: Rotates User-Agents and spoofs IP headers to maximize API success rates.",
+            "- **Resilient Connection Policy**: Automatic retries with intelligent error handling for flaky network conditions.",
+            "- **OS Autodetect & Clean CLI**: Interactive colorful interface that runs cross-platform on Windows, macOS and Linux."
+        ],
+        "Price": "Unknown",
+        "Image": "images_21.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Webapplyzer CLI",
+        "Features": [
+            "- **Extensive Technology Detection**: Identifies 312+ real-world web technologies across 17 categories including CMS, JS Framework, Web Server, CDN/Security, Analytics, Libraries, UI Libraries, Payments, Hosting, Widget/Chat, Database/Cache, Social, E-Commerce, CRM, Video/Media, and DevOps/CI \u2014 all with complex, multi-signal fingerprints and zero placeholder entries.",
+            "- **Deep Version Fingerprinting**: Automatically extracts precise software versions where available (e.g., WordPress 6.4.3, PHP 8.2.10, nginx 1.22.1).",
+            "- **Pro Security Header Analysis**: Dedicated module that evaluates HSTS, Content-Security-Policy, X-Frame-Options, X-Content-Type-Options, Referrer-Policy, and Permissions-Policy.",
+            "- **Automated Visual Evidence**: Captures frame-perfect screenshots of targets automatically using headless Chromium. This optional module runs in Single Target Scan mode only, keeping bulk scans fast and browser-free.",
+            "- **Aggressive & Accurate Engine**: Re-engineered fingerprinting logic with regex pre-compilation and exact-match cookie discovery, providing commercial-grade accuracy with zero false positives.",
+            "- **Scalable Multi-threading**: High-performance engine capable of processing thousands of targets per minute. Optimized context handling reduces CPU/RAM overhead on M3/Pro hardware.",
+            "- **Structured Data Export**: Generates detailed JSON logs for every scan, enabling automated downstream processing and database integration.",
+            "- **Configurable Settings**: Persistent `settings.ini` to toggle JSON exports and automated screenshots globally via a new Settings menu.",
+            "- **Proactive Cleanup**: Built-in logic to wipe any accidental bytecode artifacts upon startup, normal exit, or forced termination.",
+            "- **Target Normalization**: Intelligent handling of domain names, IPv4/IPv6 addresses, full URLs, and targets with custom ports.",
+            "- **Cross-Platform Compatibility**: Fully tested and optimized for Windows, macOS (Intel and Apple Silicon), Ubuntu, and generic Linux distributions.",
+            "- **Fault-Tolerant Engine**: Sophisticated error handling for unicode decoding/encoding, SSL handshake failures, and connection timeouts.",
+            "- **Detailed Reporting**: Saves individual target reports in Result/Reports/ and maintains a session-wide master log in all_target.txt.",
+            "- **Professional CLI UI**: Features a dynamic banner, real-time live results printer, and cumulative scan statistics."
+        ],
+        "Price": "Unknown",
+        "Image": "images_22.png"
+    },
+    {
+        "Program Name": "Cypher Recon - Xmlrpc and Wordpress Bruteforce Attack",
+        "Features": [
+            "- **Dual Attack Modes**:",
+            "- **XML-RPC Attack**: Leverages the `system.multicall` capability for high-speed authentication attempts.",
+            "- **WP-Login Attack**: Standard brute-force attack against `wp-login.php`.",
+            "- **Combined Attack**: Simultaneously targets both vectors for maximum coverage.",
+            "- **Smart User Enumeration**:",
+            "- Automatically fetches users via `/wp-json/wp/v2/users`.",
+            "- Supports loading custom username lists.",
+            "- Hybrid mode combines enumerated users with custom lists.",
+            "- **Advanced Target Handling**:",
+            "- Validates targets and auto-corrects URL formats.",
+            "- Supports single targets, file lists, and folder scanning.",
+            "- Handles custom ports and protocols (HTTP/HTTPS).",
+            "- **Professional Interface**:",
+            "- Clean, colorful CLI with `colorama` (no ASCII art).",
+            "- Startup banner showing tool title, OS version, and Python version.",
+            "- Real-time progress bars with status indicators.",
+            "- Interactive menu system.",
+            "- Auto-clearing screen for a clutter-free experience.",
+            "- **Performance & Reliability**:",
+            "- Multi-threaded execution (default 100 threads).",
+            "- Automatic dependency check and installation.",
+            "- OS detection (Windows, Linux, macOS).",
+            "- robust error handling and network timeout management."
+        ],
+        "Price": "Unknown",
+        "Image": "images_23.png"
+    },
+    {
+        "Program Name": "Cypher Sender - Advanced Email Marketing Sender",
+        "Features": [
+            "- **Multi-Threaded Performance**: Ultra-fast sending engine supports 100 to 1,000+ threads for high-volume delivery.",
+            "- **Dual Sending Modes**: Specialized routines for bulk email sending both with and without file attachments.",
+            "- **Sequential Monitoring**: Professional real-time logging showing strict numerical progress (e.g., 1/12, 2/12, 3/12).",
+            "- **Intelligent Rotation**: Automatic failover logic that rotates through up to 10 unique SMTP servers per recipient until success.",
+            "- **Dynamic Selection Modes**:",
+            "- **Random Mode**: Automatically picks random names, subjects, messages, and attachments for better inbox delivery.",
+            "- **Specific Mode**: Allows manual selection of specific templates, subjects, and data for targeted campaigns.",
+            "- **HTML & Text Detection**: Automatic auto-detection of `.html` and `.txt` message files to ensure correct rendering.",
+            "- **Integrated SMTP Checker**: High-speed validity checker that verifies server connectivity and login credentials.",
+            "- **Auto-Cleanup**: Prompts to remove failed or invalid SMTP entries from your lists automatically after a run.",
+            "- **Maintenance Tools**: built-in utility to automatically create the required folder structure and dummy configuration data.",
+            "- **Dependency Management**: Automatically detects and installs required Python libraries on first run.",
+            "- **Silent Exit Control**: Clean and immediate termination on `Ctrl+C` with no \"Force exit\" clutter.",
+            "- **Comprehensive Reporting**: Detailed final summaries for both sending tasks and SMTP checking tasks.",
+            "- **System Information Banner**: Displays the tool name, detected OS version, and Python version at startup."
+        ],
+        "Price": "Unknown",
+        "Image": "images_24.png"
+    },
+    {
+        "Program Name": "Cypher Sender - AWS Sender (Professional AWS SNS SMS Sending Tool)",
+        "Features": [
+            "- **Automatic Dependency Management**: Auto-detects and installs missing Python packages on first run",
+            "- **Cross-Platform OS Detection**: Automatically adapts to Windows, macOS, Linux, and Unix systems",
+            "- **System Information Banner**: Displays the tool title, accurate OS name/version, and Python version at startup",
+            "- **Configuration System**: Uses `settings.ini` for easy AWS credential management and persistence",
+            "- **High-Performance Multi-Threading**: Configurable threading (default: 100 threads) for fast bulk sending operations",
+            "- **Flexible Input Options**: Support for single target entry, file input, or directory loading with multiple files",
+            "- **Real-Time Progress Tracking**: Live updates during sending process with detailed statistics and completion rates",
+            "- **Comprehensive Result Tracking**: Separate output files for successful and failed sends with timestamps and message IDs",
+            "- **Robust Error Handling**: Handles Unicode, charset, network errors, and AWS API exceptions gracefully",
+            "- **Professional User Interface**: Colorful, organized CLI interface without ASCII art or emojis",
+            "- **Persistent Results**: Output files append new results without overwriting previous data",
+            "- **Interactive Menu System**: Easy-to-use menu with credential validation, configuration viewing, and sending options",
+            "- **No Cache Pollution**: Automatically prevents and cleans up `__pycache__` directories",
+            "- **Message Management**: Auto-creates and loads messages from `Message/Message.txt` with sample templates"
+        ],
+        "Price": "Unknown",
+        "Image": "images_25.png"
+    },
+    {
+        "Program Name": "Cypher Sender - Nexmo",
+        "Features": [
+            "- High-Performance: 100 threads for massive delivery.",
+            "- Smart Rotation: Auto-switches to the next credential upon API failure.",
+            "- Multi-Format Support: Handle `key|secret|sender_id` or `key|secret` formats dynamically.",
+            "- Interactive Setup: Prompts for Single/Multiple credentials and format preferences at runtime.",
+            "- Real-Time Updates: Live status for all attempts.",
+            "- OS Optimization: Windows, macOS, and Linux support."
+        ],
+        "Price": "Unknown",
+        "Image": "images_26.png"
+    },
+    {
+        "Program Name": "Cypher Sender - Twilio",
+        "Features": [
+            "- High-Speed Multithreading: Default 100 threads for rapid execution.",
+            "- Smart Rotation Engine: Automatically switches to the next credential upon failure.",
+            "- Auto-Dependency Management: Checks and installs required modules automatically.",
+            "- OS-Aware Terminal: Optimizes commands for Windows, macOS, and Linux/Ubuntu.",
+            "- Real-Time Progress: Live status updates for every target.",
+            "- Robust Error Handling: Safe processing of input lists with Unicode characters.",
+            "- Cache Management: Prevents and cleans up Python bytecode cache files.",
+            "- Persistent Logging: Detailed results saved without clearing previous session history."
+        ],
+        "Price": "Unknown",
+        "Image": "images_27.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Advanced Email, Domain, and IP Manager",
+        "Features": [
+            "- **Extract**: Components like email addresses, usernames, domains, subdomains, IP addresses, and passwords.",
+            "- **Filter by Domain**: Group data by specific domain names (e.g., gmail.com, yahoo.com).",
+            "- **Filter by TLD**: Group data by Top-Level Domains (e.g., .com, .org, .net).",
+            "- **Deduplicate**: Remove duplicate lines from any text file.",
+            "- **Combine**: Merge multiple text files into a single, clean output.",
+            "- **Split**: Divide large files into smaller chunks by size (KB).",
+            "- **Case Conversion**: Automatically convert lists to lowercase or uppercase.",
+            "- **Validate**: Filter and separate valid email formats from invalid lines.",
+            "- **Statistics**: Generate detailed reports on domains and TLD distributions.",
+            "- **Sort**: Alphabetically sort lines in a file."
+        ],
+        "Price": "Unknown",
+        "Image": "images_28.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Advanced Reverse IP Lookup Tool",
+        "Features": [
+            "- **Real-Time Data Saving**: Results are captured and locked to the disk with zero delay.",
+            "- **Cross-Platform Engine**: Native support for Windows, macOS, Linux, and Unix.",
+            "- **Multi-Tab Safety**: Run multiple instances simultaneously without data corruption.",
+            "- **Resource Optimization**: High-speed scanning with extremely low CPU and RAM usage.",
+            "- **Smart Filtering**: Automatic removal of JavaScript junk and monitoring domains.",
+            "- **Bulk Processing**: Supports loading thousands of targets from files or whole directories.",
+            "- **Multi-Threading**: Adjustable thread count for maximum performance.",
+            "- **Custom Output**: Toggle between clean domain lists or full HTTP/HTTPS URL formats.",
+            "- **Live Progress**: Dynamic session tracking for checked, found, and unique results.",
+            "- **Global Deduplication**: Cleans and sorts all combined results across all sessions.",
+            "- **Process Locking**: Prevents file conflicts when cleaning while other tabs are active."
+        ],
+        "Price": "Unknown",
+        "Image": "images_29.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - AWS Tool For (Key Generator, Quota Checker and Admin IAM Creator)",
+        "Features": [
+            "- High-speed multi-threaded processing with configurable thread count.",
+            "- Automatic dependency management and OS detection for seamless deployment.",
+            "- Persistent output logging in organized directories.",
+            "- Support for multiple input formats: AKIA:SECRET:REGION or AKIA|SECRET|REGION.",
+            "- Flexible input sources including manual entry, single file, or recursive folder scanning.",
+            "- Comprehensive coverage of all available AWS regions.",
+            "- Zero-trace environment with automatic management of pycache and bytecode.",
+            "- Accurate startup banner displaying the tool title, current OS version, and Python version."
+        ],
+        "Price": "Unknown",
+        "Image": "images_30.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Brevo API Key Checker and SMTP Validator",
+        "Features": [
+            "- Multi-threaded processing for high speed.",
+            "- Automatic result saving to `Result/` directory.",
+            "- Detailed plan and quota extraction.",
+            "- Support for single files or entire folders of inputs.",
+            "- Clean banner menu with OS/version display and screen clearing."
+        ],
+        "Price": "Unknown",
+        "Image": "images_31.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Bulk Email Verifier",
+        "Features": [
+            "- Startup banner displays the tool title, operating system version, and Python version.",
+            "- Multi-threaded processing for high-speed verification.",
+            "- Syntax validation using advanced regular expressions.",
+            "- DNS MX record lookup to verify domain legitimacy.",
+            "- SMTP verification mode for deep mailbox checks.",
+            "- Scalable processing: Support for single file input or folder scanning.",
+            "- Automated result categorization and logging."
+        ],
+        "Price": "Unknown",
+        "Image": "images_32.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Bulk WordPress User Enumeration Tool",
+        "Features": [
+            "- Enumerate WordPress users via REST API (/wp-json/wp/v2/users).",
+            "- Enumerate WordPress users via author archives (/?author=n).",
+            "- High-performance multithreading for bulk processing.",
+            "- Automatic result categorization in the Result directory.",
+            "- Support for URLs, domains, IPs, and custom IP:port formats.",
+            "- Deduplication of discovered usernames."
+        ],
+        "Price": "Unknown",
+        "Image": "images_33.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Checker Shell Pro",
+        "Features": [
+            "- **Runtime Diagnostics Banner**: On startup, the banner displays the tool title, the full host OS name and version (Windows release/build, macOS version, or Linux distribution), and the active Python version for instant environment verification on any platform.",
+            "- **Multi-Threaded Concurrency**: Utilizes ThreadPoolExecutor for high-speed, parallel connection handling and scanning.",
+            "- **Automated Dependency Management**: Self-checking module system that ensures all requirements (requests, colorama, bs4) are installed on first run.",
+            "- **Intelligent Fingerprinting**: Comprehensive detection engine using 35+ technical shell signatures (WSO, Alfa, b374k, etc.).",
+            "- **Robust IO Engine**: Advanced file reader with cross-encoding support (UTF-8, Latin-1, CP1252) to handle messy or corrupted input lists.",
+            "- **Bulk Processing**: Integrated directory-level scanning that automatically discovers and processes all .txt files in a target path.",
+            "- **Secure Request Handling**: Built-in SSL warning suppression and custom User-Agent rotation for stealthy and clean execution.",
+            "- **Zero-Residual Cleanup**: Active bytecode suppression and automated directory cleaning to prevent the creation of __pycache__ files."
+        ],
+        "Price": "Unknown",
+        "Image": "images_34.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Database Checker",
+        "Features": [
+            "- **Broad Database Support**: Compatible with MySQL, MongoDB, PostgreSQL, SQL Server, SQLite, Firebase, and Oracle.",
+            "- **All-in-One Scanner**: Automatic detection mode that tries multiple database types for a single credential set.",
+            "- **High-Speed Execution**: Multi-threaded architecture allows for high-concurrency checking.",
+            "- **Smart File Handling**: Loads a single `.txt` file, or fetches and lists all `.txt` files from a target directory with a `y/n` confirmation before loading.",
+            "- **Organized Results**: Automatically creates a `Result` folder with detailed logs and simplified connection strings.",
+            "- **Safety**: Read-only SQLite checks and non-destructive testing.",
+            "- **Diagnostic Banner**: Real-time display of system information and driver status."
+        ],
+        "Price": "Unknown",
+        "Image": "images_35.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Email & Phone Number Grabber From Website or IPs",
+        "Features": [
+            "- Dual Extraction: Simultaneously grabs email addresses and international phone numbers.",
+            "- High Performance: Multithreaded engine (up to 100+ threads) for fast processing.",
+            "- Real-time Updates: Live counter for scanned targets and discovered leads.",
+            "- Robust Input Handling: Supports single targets, files, and entire directories.",
+            "- Encoding Resilience: Handles various file encodings to prevent crashes on large lists.",
+            "- Clean Environment: Automatically manages dependencies and prevents pycache creation.",
+            "- Organized Output: Saves leads into separate, categorized text files."
+        ],
+        "Price": "Unknown",
+        "Image": "images_36.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Get Wordpress Database From Config",
+        "Features": [
+            "- Multi-threaded scanning for maximum performance (Default: 100 threads).",
+            "- Real-time progress updates with status indicators.",
+            "- OS detection for cross-platform compatibility.",
+            "- Automatic dependency management.",
+            "- Comprehensive extraction of database credentials and SMTP details.",
+            "- Interactive menu for target loading (files or directories).",
+            "- Results persistence with organized output in the `Result/` directory."
+        ],
+        "Price": "Unknown",
+        "Image": "images_37.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Get Wordpress Logs From Mail&Pass List",
+        "Features": [
+            "- **Intelligent Domain Extraction**: Automatically detects base domains and subdomains from email addresses.",
+            "- **Complex TLD Support**: Robust handling for complex top-level domains like .co.in, .edu.co, and .com.br.",
+            "- **Aggressive & Accurate**: Multi-element detection logic with auto-retries for 100% accurate results.",
+            "- **Dual-Username Logic**: Automatically tries both the **Full Email** and the **User Prefix** (e.g., `admin` from `admin@site.com`) as usernames to maximize success.",
+            "- **Flexible Input**: Support for single target input, file loading, and directory batch scanning.",
+            "- **Clean CLI**: Beautiful, colorful interface using Colorama with real-time status updates and fail-silent output.",
+            "- **Automated Dependency Management**: Automatically installs required modules on first run.",
+            "- **Pycache Protection**: Suppresses and automatically cleans up binary cache files."
+        ],
+        "Price": "Unknown",
+        "Image": "images_38.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Grabber Domain",
+        "Features": [
+            "- **Domain By TLD**: Grab domains by TLD, auto pages 1-100 (session-based, never hangs). Source: Topsitessearch.com.",
+            "- **Top 1M Dated Archive**: Download Top 1M lists by date \u2014 all archives (2017 \u2192 today) or input how many of the most recent URLs you need. Threaded & resume-safe. Source: Cisco Umbrella (S3).",
+            "- **Top 1M Daily**: Daily Top 1M domain list with auto-dated filenames. Source: NetAPI.com.",
+            "- **Million Ranking**: Top 1M ranked domains. Source: Majestic.com.",
+            "- **Top 1M Daily**: Daily Top 1M research list with auto-dated filenames. Source: Tranco-list.eu.",
+            "- **Top 10M Domains**: Top 10 million domains (streamed, ~113 MB zip). Source: Domcop.com.",
+            "- **Grab Modes**: All Domains, All Domains + Separated by TLD (one file per TLD), or Filter by TLD.",
+            "- **Numbered Sub-Menus**: Every option uses consistent numbered menus for easy control.",
+            "- **Automatic Output**: Results saved per source under `Result/`, one domain per line, with resume support.",
+            "- **Cross-Platform**: Works on Windows, macOS, Ubuntu, and Kali Linux.",
+            "- **Colorful Terminal Output**: Colorized banner, menus, and progress."
+        ],
+        "Price": "Unknown",
+        "Image": "images_39.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Manager Pro",
+        "Features": [
+            "- **Streaming Real-Time Saving**: Results are written to disk **immediately** as they are processed. No data loss if the task is interrupted.",
+            "- **Ultra-Fast Multi-threading**: Optimized with `ThreadPoolExecutor` and a sliding window of futures for maximum performance.",
+            "- **Big File Support**: Architectural shift to Python Generators ensures multi-gigabyte files can be processed without OOM errors.",
+            "- **Progressive Persistence**: Results are appended to existing files, preventing accidental data loss or resets.",
+            "- **Universal Proxy Support**: Intelligent validation for HTTP, SOCKS4, and SOCKS5 with automatic protocol detection.",
+            "- **Automated Extraction List**: Emails can be filtered against a master list of domains in `emails/emails.txt`.",
+            "- **Smart Input Handling**: Robust support for single files or batch processing entire directories of `.txt` files.",
+            "- **Real-time Progress UI**: Interactive CLI display with live counters and \"Saving: ON\" indicator.",
+            "- **Advanced IP Utilities**: Suite for CIDR expansion, reverse DNS, and sequential range generation.",
+            "- **Zero-Footprint**: cleanup system removes temporary bytecode and cache files after execution.",
+            "- **Multi-file Chunk Splitter**: Split massive text files into segments by line count for easy batch processing."
+        ],
+        "Price": "Unknown",
+        "Image": "images_40.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Manager Simple",
+        "Features": [
+            "- **Deduplicate List**: Ultra-fast, memory-efficient streaming deduplication for multi-gigabyte files.",
+            "- **Domain/URL to IP Addresses**: High-speed resolution using optimized multi-threading and connection pooling.",
+            "- **Live/Dead Checker**: Real-time validation with buffered results writing for maximum throughput.",
+            "- **Split File**: Efficiently divide massive files into smaller chunks without loading them into memory.",
+            "- **Cross-Platform**: Fully compatible with Windows, Linux, and macOS."
+        ],
+        "Price": "Unknown",
+        "Image": "images_41.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Multi-Vulnerability Scanner",
+        "Features": [
+            "- **Flexible Targeting**: Support for scanning a single domain, a list of targets from a text file, or all `.txt` target files inside the `targets` directory.",
+            "- **Multithreaded Architecture**: High-speed concurrent scanning with user-defined thread counts.",
+            "- **Configurable Scanning**: Complete control over protocols (HTTP/HTTPS) and specific vulnerability checks via `settings.ini`.",
+            "- **Environment Management**: Automatically generates necessary configuration files and directory structures on first run.",
+            "- **Detailed Reporting**: Saves found vulnerabilities into organized results directories for further analysis."
+        ],
+        "Price": "Unknown",
+        "Image": "images_42.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Shell Password Cracking",
+        "Features": [
+            "- **Multi-Threading**: High-performance scanning with customizable thread counts.",
+            "- **Universal OS Support**: Seamless performance across Windows, macOS, and Linux distributions.",
+            "- **Interactive CLI**: User-friendly menu-driven interface with real-time progress updates.",
+            "- **Robust Error Handling**: Advanced target loading and session management to handle connection timeouts and encoding variations.",
+            "- **Output Persistence**: Results are automatically categorized and saved for later review."
+        ],
+        "Price": "Unknown",
+        "Image": "images_43.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - SQL Vulnerability Advanced Scanner & Auto Dumper \u2014 Advanced Edition",
+        "Features": [
+            "- **Multi-DBMS Support**: Full detection and exploitation for MySQL, MSSQL, PostgreSQL, Oracle, and ASP.NET.",
+            "- **5 Injection Techniques**: Error-based, Union-based, Boolean-blind, Time-blind, and Stacked Queries.",
+            "- **Turbo Speed Engine**: Sub-second backoff and removal of mandatory cooldowns for maximum momentum.",
+            "- **Multi-Layer WAF Detection**: Simultaneously detects and bypasses stacked protections (e.g., Cloudflare + ModSecurity).",
+            "- **Ultimate Aggression**: Features threaded discovery (thread count fully configurable in `settings.json`, no hard caps), polymorphic SQL logic evasion, and HTTP/2 support.",
+            "- **Smart Recovery Engine**: Automated IP-ban recovery with 10s breather sleep and aggressive header rotation.",
+            "- **Auto-Token Handling**: Automatically detects and injects CSRF and Anti-bot tokens into requests.",
+            "- **Super Fast Heuristics**: 90% faster table/column discovery using high-speed presence tests.",
+            "- **Invisible Extraction**: Sticky WAF state management ensures bypass persists across the entire session."
+        ],
+        "Price": "Unknown",
+        "Image": "images_44.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Subdomain Scanner",
+        "Features": [
+            "- Asynchronous Discovery Engine: High-speed scanning using asyncio and aiohttp.",
+            "- Comprehensive Multi-Source OSINT: Queries crt.sh, HackerTarget, Anubis, AlienVault, CertSpotter, RapidDNS, and Riddler.",
+            "- Real-time Progress Tracking: Dynamic per-API discovery counts and target status updates.",
+            "- Smart TLD Analysis: Accurate base-domain detection for complex TLDs (e.g., .co.jp, .edu.au).",
+            "- Flexible Input Options: Supports single targets, load from files, or directory-wide batch processing.",
+            "- Clean and Colorized UI: Clear-screen startup banner showing OS and Python version details.",
+            "- Clean Architecture: Bytecode cache prevention and thorough cleanup of temporary files."
+        ],
+        "Price": "Unknown",
+        "Image": "images_45.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Subdomain Scanner With Wordlist",
+        "Features": [
+            "- Fast subdomain scanning with threading",
+            "- Displays found and not found subdomains in real-time",
+            "- Automatically saves found subdomains to `Result/results.txt`",
+            "- Supports bulk processing of root domains from an input file"
+        ],
+        "Price": "Unknown",
+        "Image": "images_46.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Validator Amazon Email (Japan Only)",
+        "Features": [
+            "- **Multi-threaded Processing**: Validate multiple entries simultaneously with customizable thread count",
+            "- **Browser Automation**: Powered by Playwright for reliable Amazon JP validation",
+            "- **Flexible Input Methods**: Support for single entry, file-based, or folder-based batch processing",
+            "- **Real-time Progress Tracking**: Live progress bar with tqdm integration",
+            "- **Robust Error Handling**: Handles various file encodings (UTF-8, Latin-1, Windows-1252)",
+            "- **Persistent Results**: Automatically saves valid entries without overwriting existing data",
+            "- **Cross-Platform**: Works on Windows, macOS, Ubuntu, and Linux",
+            "- **Clean CLI Interface**: Colorful, readable output without ASCII art"
+        ],
+        "Price": "Unknown",
+        "Image": "images_47.png"
+    },
+    {
+        "Program Name": "Cypher Toolkit - Wordpress Config Finder",
+        "Features": [
+            "- **Multi-Input Support**: Explicit options to scan a single target, a target list file, or a directory containing multiple lists.",
+            "- **Universal Target Formatting**: Supports domains, full URLs, IP addresses, and custom port specifications (e.g., `192.168.1.1:81`, `site.com:8443`).",
+            "- **High-Concurrency Engine**: Utilizes a robust thread pool defaulting to 100 concurrent workers for rapid scanning.",
+            "- **Real-Time Progress Tracking**: Dynamic terminal UI that updates hit and error counts in real-time.",
+            "- **Cross-Platform OS Adapters**: Intelligent detection for Windows, MacOS, and Linux/Ubuntu environments.",
+            "- **Result Management**: Automatically organizes and appends found data to the Result directory."
+        ],
+        "Price": "Unknown",
+        "Image": "images_48.png"
+    },
+    {
+        "Program Name": "Domain, URL, and IP Extractor Tool",
+        "Features": [
+            "- Multi-threaded processing for high performance.",
+            "- Extract URLs, domains, IP addresses, and email addresses (with port support).",
+            "- Handles multiple file encodings (UTF-8, Latin-1, etc.).",
+            "- Scan a single .txt file or all .txt files inside a directory.",
+            "- Automatically classifies each item by type with no false results.",
+            "- Saves categorized results to separate files: `domain.txt`, `ip.txt`, `email.txt`, and `url.txt`.",
+            "- Merges and de-duplicates results without overwriting existing data."
+        ],
+        "Price": "Unknown",
+        "Image": "images_49.png"
+    },
+    {
+        "Program Name": "IP Range Generator Tool",
+        "Features": [
+            "- Automated IP range generation from input lists.",
+            "- Organized output saved directly to a results directory.",
+            "- Colorized terminal interface for better user experience.",
+            "- Choose to load a single `.txt` file or all `.txt` files from a target directory."
+        ],
+        "Price": "Unknown",
+        "Image": "images_50.png"
+    },
+    {
+        "Program Name": "IPs Generator, Range IPs, Bulk Check Live IPs",
+        "Features": [
+            "- **IPs Generator**: Generate a specific number of random IP addresses.",
+            "- **Range IPs**: Generate full IP ranges (0-255) based on a provided list of IPs.",
+            "- **Bulk IPs Check**: Multithreaded validation to identify live IP addresses."
+        ],
+        "Price": "Unknown",
+        "Image": "images_51.png"
+    },
+    {
+        "Program Name": "Nullz Advanced Email Marketing Sender",
+        "Features": [
+            "- High-Speed Multi-threading: Efficiently process large recipient lists using customizable thread counts.",
+            "- Robust Proxy Support: Integrated support for SOCKS4, SOCKS5, and HTTP proxies with optional authentication.",
+            "- Dynamic Personalization: Use placeholders like {name}, {company}, {city}, and {unique_id} in subjects and bodies.",
+            "- Smart Template Management: Supports multiple HTML letter templates with automatic cycling.",
+            "- Intelligent SMTP Handling: Multi-level SSL/TLS fallback mechanisms for maximum compatibility with various providers.",
+            "- Automated Attachment Scanning: Automatically detects and attaches files from the designated attachments folder.",
+            "- Custom Header Support: Add specialized email headers for better deliverability and tracking.",
+            "- Batch Sending Mode: Control the pace of delivery with configurable batch sizes and delays.",
+            "- Built-in SMTP Testing: Verify your credentials and deliverability before starting a campaign.",
+            "- Automatic Environment Setup: Generates all necessary configuration files and sample data on the first run.",
+            "- Real-time Logging: Comprehensive success and failure tracking with detailed log entries."
+        ],
+        "Price": "Unknown",
+        "Image": "images_52.png"
+    },
+    {
+        "Program Name": "Phone Number Generator All Country",
+        "Features": [
+            "- Support for 250 country codes.",
+            "- Dynamic loading of country prefixes from `config/settings.json`.",
+            "- High-quality random phone number generation.",
+            "- Results saved automatically to `Result/generate.txt`.",
+            "- Interactive, user-friendly command-line interface."
+        ],
+        "Price": "Unknown",
+        "Image": "images_53.png"
+    },
+    {
+        "Program Name": "Phone Number To Carrier Gateway",
+        "Features": [
+            "- **Global Database**: Comprehensive mapping of continents, countries, and carriers.",
+            "- **Automated Formatting**: Converts plain phone numbers into SMS gateway emails (e.g., `1234567890@carrier.com`).",
+            "- **Flexible Input**: Load phone numbers from a single `.txt` file or all `.txt` files in a target directory.",
+            "- **Confirmation Prompt**: When loading from a directory, all `.txt` files are fetched and displayed for confirmation before processing.",
+            "- **Interactive Main Menu**: Clear-screen navigation with options to load files, process numbers, and exit cleanly.",
+            "- **Database Overview**: The banner lists all supported continents along with total supported services, providers, and countries.",
+            "- **Organized Output**: Automatically creates a `Result` folder and saves outputs in carrier-specific files.",
+            "- **Cross-Platform**: Works on Windows, macOS, and Linux.",
+            "- **Deduplication**: Ensures unique carrier entries during processing."
+        ],
+        "Price": "Unknown",
+        "Image": "images_54.png"
+    },
+    {
+        "Program Name": "Phone Number Validation and Carrier Lookup Tool",
+        "Features": [
+            "- **Professional Validation**: This tool performs real-time validation, identifies carriers, and determines geographic origin (country/region) globally.",
+            "- **Global Coverage**: Fully designed for \"All Around the World\" checking, supporting numbers from over 200 countries with high accuracy.",
+            "- **Universal Number Support**: Validates all types of phone numbers including mobile, landline, VoIP, and toll-free numbers.",
+            "- **High-Speed Multithreading**: Super fast execution using `concurrent.futures`. It can process thousands of numbers in seconds.",
+            "- **Optimized Thread Usage**: Efficiently manages system resources; users can set 10-50 threads for maximum throughput without local overhead.",
+            "- **Advanced Memory Management**: Uses line-by-line streaming, allowing the processing of massive files (GBs) without increasing RAM usage.",
+            "- **Real-time Persistence**: Results are written to disk immediately and flushed in real time, surviving unexpected interruptions.",
+            "- **Organized Results Management**: Automatically categorizes output into `Result` subfolders by carrier, country, and logic category.",
+            "- **Comprehensive Logging**: Detailed multi-line reports for every valid number are saved to `Valid_Phone_Number_Details.txt`.",
+            "- **Flexible Input Handling**: Choose to validate a single `.txt` file or load all `.txt` files from a target directory.",
+            "- **Cross-Platform Support**: Compatible with Windows, Ubuntu, Debian, Arch Linux, macOS, and Unix-based systems.",
+            "- **Core Dependencies**: Built using professional libraries including `phonenumbers` and `colorama`, with `concurrent.futures` for threading."
+        ],
+        "Price": "Unknown",
+        "Image": "images_55.png"
+    },
+    {
+        "Program Name": "Proxy Connection Tester",
+        "Features": [
+            "- Multi-threaded performance for rapid testing of large proxy lists.",
+            "- Supports SOCKS4, SOCKS5, and HTTP proxy protocols.",
+            "- Choice of input: load proxies from a single `.txt` file, or load all `.txt` files from a target directory after confirmation.",
+            "- When loading from a directory, the tool fetches and lists every `.txt` file found before asking for confirmation (`y/n`).",
+            "- Automatically handles authentication (user:pass) and standard formats.",
+            "- Saves working proxies to a clean, sorted, and unique output file.",
+            "- Cross-platform support with colored terminal output."
+        ],
+        "Price": "Unknown",
+        "Image": "images_56.png"
+    },
+    {
+        "Program Name": "Sentinel Toolkit | Professional Data Discovery Toolkit",
+        "Features": [
+            "- High-Speed Dorking Engine: Parallelized search at the page level with multi-layer URL harvesting.",
+            "- Intelligent Classification: Automatically separates links with parameters from static paths.",
+            "- Proxy Management: Automated gathering and multi-protocol testing (HTTP, SOCKS4, SOCKS5).",
+            "- Domain & IP Utilities: Rapid conversion between domains and IP addresses.",
+            "- Live Status Checker: Verifies host availability with high-concurrency requests.",
+            "- List Management: Integrated de-duplication and alphabetical sorting.",
+            "- Result Persistence: All outputs are appended, ensuring data accumulation across sessions.",
+            "- Dynamic Threading: User-definable thread counts with a high-performance default (100 threads)."
+        ],
+        "Price": "Unknown",
+        "Image": "images_57.png"
+    },
+    {
+        "Program Name": "SMTP Connection & Send Tester",
+        "Features": [
+            "- Multi-Threaded Testing: Execute multiple SMTP tests concurrently.",
+            "- Load Modes: Load your SMTP list from a single .txt file or all .txt files in a directory.",
+            "- Flexible SMTP Formats: Supports host:port:user:pass and host|port|user|pass.",
+            "- Real-World Verification: Validates connection, login, and successful email transmission.",
+            "- Proxy Integration: Support for SOCKS4, SOCKS5, and HTTP proxies.",
+            "- Robust Security: Multiple SSL/TLS fallback methods for maximum compatibility.",
+            "- Automated Results: Automatically saves working SMTPs to Result/SMTP.txt and failed SMTPs to Result/Failed.txt."
+        ],
+        "Price": "Unknown",
+        "Image": "images_58.png"
+    },
+    {
+        "Program Name": "URL Modifier Pro",
+        "Features": [
+            "- **Robust Input Handling**: Supports UTF-8, Latin-1, and CP1252 encodings.",
+            "- **Batch Processing**: Process single files or entire directories.",
+            "- **Real-Time Feedback**: View progress as files are processed.",
+            "- **Safe Output Management**: Results are saved with timestamps to prevent data overwriting.",
+            "- **Cross-Platform**: Auto-detects OS and adjusts interface accordingly.",
+            "- **Interactive File Selection**: Lists every `.txt` file found in a target directory and asks for confirmation before processing."
+        ],
+        "Price": "Unknown",
+        "Image": "images_59.png"
+    },
+    {
+        "Program Name": "Vixus Scanner Pro - Advanced Credential Extractor (Laravel Env And Debug, Wordpress, Phpinfo, Yii Debug)",
+        "Features": [
+            "- **Multi-Framework Intelligence**: Specialized extraction modules for Laravel (.env), WordPress (wp-config), PhpInfo, and Yii Debug.",
+            "- **Deep Cloud Validation**: Automated permission checks for AWS (S3/EC2/IAM), Stripe, Azure, and DigitalOcean.",
+            "- **Advanced SMTP Auditing**: Comprehensive validation including login stability, Ehlo metadata, and Spoofing susceptibility.",
+            "- **Dynamic CLI Experience**: High-performance UI with live status ribbons and framework-specific color coding.",
+            "- **Settings-Driven Automation**: Fully configurable via `settings.ini` for automated email/SMS testing and IAM user persistence.",
+            "- **Traceability**: Every finding is linked back to the specific `TARGET_URL` and internal server `PATH`."
+        ],
+        "Price": "Unknown",
+        "Image": "images_60.png"
+    },
+    {
+        "Program Name": "Vixus Scanner Pro - Laravel .env and Debug Scanner",
+        "Features": [
+            "- **Laravel Specialization**: Dedicated modules for Laravel `.env` and Debug Pages.",
+            "- **Parity Extraction**: Both `.env` and Debug auditors extract identical data types (AWS, SMTP, DB, Stripe, etc.).",
+            "- **Deep Cloud Validation**: Automated permission checks for AWS (S3/EC2/IAM), Stripe, Azure, and DigitalOcean.",
+            "- **Advanced SMTP Auditing**: Comprehensive validation including login stability, Ehlo metadata, and Spoofing susceptibility.",
+            "- **Content-Based Detection**: Advanced detection logic using GET/POST requests to trigger and identify debug pages.",
+            "- **Differentiated Output**: Separate organization for `.env` and Debug Page results for better workflow."
+        ],
+        "Price": "Unknown",
+        "Image": "images_61.png"
+    },
+    {
+        "Program Name": "Vixus Toolkit",
+        "Features": [
+            "- **ASN to IP Ranges (Raw Prefixes)**: Fetch IP prefixes for ASNs.",
+            "- **ASN to IP List (Expanded)**: Expand ASNs into full IP lists.",
+            "- **Live/Dead Checker (Domains/IPs/URLs)**: Verify status of targets.",
+            "- **CIDR to IP List**: Convert CIDR blocks to IPs.",
+            "- **Domain/URL to IP Ranges**: Resolve domains to /24 IP ranges.",
+            "- **Domain/URL to IP Addresses**: Resolve domains to single IPs.",
+            "- **Domain/IP to Server (FQDN)**: Get FQDN/Server names.",
+            "- **IP Range to IP List**: Expand various IP range formats.",
+            "- **IP to ASN Lookup**: Lookup ASN details for IPs.",
+            "- **Global ASN List (Full/Raw)**: Get full ASN lists from CIDR-Report.",
+            "- **Global ASN List (Simple/Formatted)**: Get ASN lists from CAIDA.",
+            "- **Global Country Data (Codes & Names)**: Fetch global country data.",
+            "- **Extract Domains from Text**: Parse domains from text.",
+            "- **Extract URLs from Text**: Parse complete URLs from text.",
+            "- **Deduplicate List**: Deduplicate lists.",
+            "- **Split File (By Line Count)**: Divide large files.",
+            "- **Split by Type (IP/Domain/URL)**: Sort data by type."
+        ],
+        "Price": "Unknown",
+        "Image": "images_62.png"
+    },
+    {
+        "Program Name": "Web & Mail Credential Checker",
+        "Features": [
+            "- **Optimized for Big Data**: Engineered to handle billions of lines using a high-efficiency producer-consumer model.",
+            "- **Extreme Speed**: Starts processing immediately without pre-scanning the file, ensuring the fastest possible execution.",
+            "- **Enhanced Debugging**: Real-time `[TRYING]` and `[ERROR]` logs provide full visibility into every connection attempt.",
+            "- **Memory Efficient**: Uses a size-limited queue to process massive lists without excessive RAM consumption.",
+            "- **Multi-threaded Execution**: Fully concurrent checking for maximum throughput.",
+            "- **Service Support**: Verifies cPanel, WHM, Webmail, and IMAP credentials.",
+            "- **Flexible Formats**: Supports `host|user|pass` and `host|port|user|pass`.",
+            "- **Smart Source Selection**: Load targets from a single `.txt` file or from all `.txt` files in a directory. Directory contents are fetched, listed, and confirmed with a `y/n` prompt before scanning.",
+            "- **Intelligent Fallback**: Automatically attempts HTTPS/SSL and falls back to HTTP/Non-SSL.",
+            "- **Deep Validation**: Confirms successful logins by querying server information and APIs.",
+            "- **Structured Results**: Saves results in human-readable and reusable formats in the `Result` folder."
+        ],
+        "Price": "Unknown",
+        "Image": "images_63.png"
+    },
+    {
+        "Program Name": "WP Login Checker",
+        "Features": [
+            "- Multi-format support for input credentials (URL#User@Pass, URL:User:Pass, etc.).",
+            "- Robust multi-threaded performance using ThreadPool.",
+            "- Accurate validation by attempting to access the WordPress Dashboard.",
+            "- Checks for administrative privileges:",
+            "- Plugin Installation access.",
+            "- Plugin Management access.",
+            "- Theme Management access.",
+            "- Detailed logging of successes, failures, and errors.",
+            "- Automatic result categorization into text files.",
+            "- Colorized banner showing tool title, operating system, and Python version.",
+            "- Main menu with two target options: a single `.txt` file, or all `.txt` files inside a directory.",
+            "- Configurable thread count (no upper limit) with a low default for minimal CPU and memory usage."
+        ],
+        "Price": "Unknown",
+        "Image": "images_64.png"
+    }
+]
